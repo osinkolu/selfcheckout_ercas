@@ -8,7 +8,7 @@ Self-CHECKOUT is a mobile application that solves the problem of long queues and
 
 ## Demo APK
 
-[Download the APK here](#)
+[Download the APK here](https://drive.google.com/drive/folders/1A_5dLo_T4lEH2C7X3aaNjytVV4q6-_aR?usp=sharing)
 
 ## Features
 
