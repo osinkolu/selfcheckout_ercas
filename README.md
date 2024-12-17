@@ -103,11 +103,11 @@ self-checkout/
 ## Screenshots
 
 1. **Home Screen**
-   ![Home Screen](screens\one.jpg)
+   ![Home Screen](screens/one.jpg)
 2. **Barcode Scanning**
-   ![Barcode Scanning](screens\two.jpg)
+   ![Barcode Scanning](screens/two.jpg)
 3. **Payment Screen**
-   ![Payment Screen](screens\three.jpg)
+   ![Payment Screen](screens/three.jpg)
 
 ---
 
